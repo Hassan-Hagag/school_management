@@ -20,7 +20,7 @@
           <a href="https://www.linkedin.com/in/hassan-hagag-746b1a356 " target="_blank" class="social-link linkedin me-3">
             <i class="bi bi-linkedin"></i>
           </a>
-          <a href="https://github.com" target="_blank" class="social-link github">
+          <a href="https://github.com/Hassan-Hagag/" target="_blank" class="social-link github">
             <i class="bi bi-github"></i>
           </a>
         </div>
@@ -102,3 +102,4 @@
 <script src="/school_managment/assets/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
+
